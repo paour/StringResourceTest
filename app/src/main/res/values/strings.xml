@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">String Resource Test</string>
+
+    <string name="with_esc_n">Line 1\nLine 2</string>
+
+    <string name="with_linebreak">Line 1
+        Line 2</string>
+
+    <string name="with_quote_esc_n">"Line 1\nLine 2"</string>
+
+    <string name="with_quote_linebreak">"Line 1
+        Line 2"</string>
+
+    <string name="with_br">Line 1<br/>Line 2</string>
+
+    <string name="with_esc_n_markup"><b>Line 1</b>\nLine 2</string>
+
+    <string name="with_br_markup_cdata"><![CDATA[
+    <b>Line 1</b><br/>Line 2
+    ]]></string>
+
+    <string name="set_text">Plain setText</string>
+    <string name="set_text_from_html">setText fromHtml</string>
+    <string name="set_text_get_string">setText getString</string>
+</resources>

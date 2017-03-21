@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_string_names">
+        <item>with_esc_n</item>
+        <item>with_linebreak</item>
+        <item>with_quote_esc_n</item>
+        <item>with_quote_linebreak</item>
+        <item>with_br</item>
+        <item>with_esc_n_markup</item>
+        <item>with_br_markup_cdata</item>
+    </string-array>
+
+</resources>
