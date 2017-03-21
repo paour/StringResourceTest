@@ -6,6 +6,7 @@
         <item>with_quote_esc_n</item>
         <item>with_quote_linebreak</item>
         <item>with_br</item>
+        <item>with_esc_br</item>
         <item>with_esc_n_markup</item>
         <item>with_br_markup_cdata</item>
     </string-array>

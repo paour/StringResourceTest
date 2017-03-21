@@ -13,6 +13,8 @@
 
     <string name="with_br">Line 1<br/>Line 2</string>
 
+    <string name="with_esc_br">Line 1&lt;br/>Line 2</string>
+
     <string name="with_esc_n_markup"><b>Line 1</b>\nLine 2</string>
 
     <string name="with_br_markup_cdata"><![CDATA[
