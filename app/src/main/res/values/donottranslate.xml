@@ -3,6 +3,7 @@
     <string-array name="test_string_names">
         <item>with_esc_n</item>
         <item>with_linebreak</item>
+        <item>two_linebreaks</item>
         <item>with_quote_esc_n</item>
         <item>with_quote_linebreak</item>
         <item>with_br</item>

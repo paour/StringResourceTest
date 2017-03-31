@@ -6,6 +6,10 @@
     <string name="with_linebreak">Line 1
         Line 2</string>
 
+    <string name="two_linebreaks">Line 1
+
+        Line 2</string>
+
     <string name="with_quote_esc_n">"Line 1\nLine 2"</string>
 
     <string name="with_quote_linebreak">"Line 1
